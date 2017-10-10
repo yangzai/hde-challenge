@@ -1,3 +1,3 @@
 # hde-challenge
 
-Implementation without `for` keyword, with TCO and over channels for parallelism and concurrency.
+Implementation without `for` keyword, with TCO and over goroutines and channels for parallelism and concurrency.
